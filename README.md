@@ -80,3 +80,6 @@ Explore options for real-time audio streaming and processing.
 # Contact
 For questions or further discussion, please contact sriram rampelli at sriramrampelli15@gmail.com .
 
+## Weekly Lab
+- Lab checklist (markdown): `hands_on_lab_week_nn_training.md`
+- Jupyter notebook version: `weekly_nn_training_lab.ipynb`
